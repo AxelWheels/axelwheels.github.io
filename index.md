@@ -1,37 +1,22 @@
 ## Axel Wheels Portfolio
 
-You can use the [editor on GitHub](https://github.com/AxelWheels/axelwheels.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
+# Battle Bots (Current work)
+[Link](https://github.com/AxelWheels/BattleBots)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Battle Bots was my Game Development project for University but I have taken the project and have decided to rework it to use all the new features of Unity that have been released. This project allows me to explore new features while working towards a final goal.
 
-### Markdown
+# Game Behaviour
+[Link](https://github.com/AxelWheels/GameBehaviour)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My work in Game Behaviour involved creating a custom physics engine and also AI that would work within that physics engine. The project was created in Unity for rendering purposes only and uses all custom physics. I was able to add some basic editor gizmos to help illustrate the AI pathing and how it is setup.
 
-```markdown
-Syntax highlighted code block
+# Raytracer
+[Link](https://github.com/AxelWheels/Raytracer)
 
-# Header 1
-## Header 2
-### Header 3
+For Graphics 2 in University I created a Raytracer which taught me about the basics of how raytracing works. This currently runs on the cpu which runs very slowly but uses multithreading to speed it up a bit and I have also implemented some basic anti-aliasing by averaging the colour per pixel based on the pixels around it.
 
-- Bulleted
-- List
+# Deadline (Further work planned)
+[Link](https://github.com/AxelWheels/Deadline)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AxelWheels/axelwheels.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This was a very simple project created in my second year of uni, I want to recreate this with a lot of the 2D tools that are now in Unity such as the tilemap tools. I want to make this in to a more presentable project than when it was made previously.
